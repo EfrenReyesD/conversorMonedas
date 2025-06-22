@@ -1,6 +1,6 @@
 # 💱 Conversor de Monedas - Consola Java con Spring y Jackson
 
-Este es un proyecto de consola en Java que permite convertir una cantidad de dinero de una moneda a otra. Utiliza **Spring (Core)** para la estructura del proyecto y **Jackson** para procesar datos en formato JSON, simulando una llamada a una API de tipo exchangerates.
+Este es un proyecto de consola en Java que permite convertir una cantidad de dinero de una moneda a otra. Utiliza **Spring (Core)** para la estructura del proyecto y **Jackson** para procesar datos en formato JSON, utilizando api exchangerates.
 
 ---
 
